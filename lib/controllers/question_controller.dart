@@ -100,6 +100,6 @@ class QuestionController extends GetxController {
     _selectedAnswer = "";
     _answeredCurrQuestion = false;
     Get.offNamed('/result');
-    _score = 0;
+
   }
 }
